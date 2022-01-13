@@ -1,0 +1,33 @@
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# NetBeans
+nb-configuration.xml
+
+# OSX
+.DS_Store
+
+# Patch
+*.orig
+*.rej
+
+# Vim
+*.swp
+*.swo
+
+# Visual Studio Code
+.vscode
+.factorypath
